@@ -1,0 +1,29 @@
+body{
+    padding-top : 10px;
+}
+
+table.starting{
+    padding: auto;
+    border-top: 10px;
+    margin-bottom: 30px;
+}
+
+td.my_photo{
+    padding-left: 10px;
+    padding-right: 15px;
+    width: 0%;
+}
+
+p.description{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr.first_line{
+    border-top: 5px dotted grey;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+a.socialmedia{
+    padding: 10px;
+}
